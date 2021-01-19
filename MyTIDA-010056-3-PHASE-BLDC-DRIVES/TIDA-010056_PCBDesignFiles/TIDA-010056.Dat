@@ -1,0 +1,74 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~150|Field=Description~String~Description~150|Field=Designator~String~Designator~150|Field=PartNumber~String~PartNumber~150|Field=Quantity~Integer~Quantity~150|Field=Manufacturer~String~Manufacturer~150|Field=PackageReference~String~PackageReference~150|Field=Value~String~Value~150|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~TIDA-010056.PrjPcb|ReportField=ProjectFullPath~D:\projects\TIDA-010056\Altium_PCB_design\Final Database TIDA-010056_E2_20190527\TIDA-010056.PrjPcb|ReportField=Title~BOM (TI Designs format) For Variant [001] of Project [TIDA-010056.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~7:34:48 PM|ReportField=ReportDate~5/28/2019|ReportField=ReportDateTime~5/28/2019 7:34:48 PM|ReportField=OutputName~BOM (TI Designs format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=TotalQuantity~116|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=TID~010056|ReportField=TechSupport~http://www.ti.com/support|ReportField=SCH_Rev~E2|ReportField=PRJ_Title~54V, 1.5kW, 3-Phase BLDC Drive Power stage|ReportField=PRJ_Number~TIDA-010056|ReportField=PRJ_Engineer~Manu Balakrishnan|ReportField=PRJ_Customer~Public Release|ReportField=PCB_Rev~E2|ReportField=PCB_Layout~Manu Balakrishnan|ReportField=EVM_orderable~N/A|ReportField=CopyrightYear~2019|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~5/28/2019|ReportField=CurrentTime~7:30:19 PM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~D:\projects\TIDA-010056\Altium_PCB_design\Final Database TIDA-010056_E2_20190527\TIDA-010056_coversheet.SchDoc|ReportField=DocumentName~TIDA-010056_coversheet.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Manu|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~5/28/2019|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~TIDA-010056.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~5|ReportField=Time~Not shown in title block|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~TIDA-010056.PrjPcb|ReportField=DataSourceFullPath~D:\projects\TIDA-010056\Altium_PCB_design\Final Database TIDA-010056_E2_20190527\TIDA-010056.PrjPcb|ReportField=PCBConfigurationName~Bare PCB|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Fitted|Printed Circuit Board|!PCB1|TIDA-010056|1|Any||
+2|Fitted|CAP ALUM 390UF 20% 100V THRUHOLE|C1, C2|EEU-FS2A391|2|Panasonic Electronic Components|D16xL27mm|390uF
+3|Fitted|CAP, CERM, 0.1 uF, 100 V, +/- 10%, X7R, 1206|C3|C3216X7R2A104K160AA|1|TDK|1206|0.1uF
+4|Fitted|CAP CER 2.2UF 100V X7R 1206|C4, C10, C11, C12|CL31B225KCHSNNE|4|Samsung Electro-Mechanics|1206|2.2uF
+5|Fitted|CAP, CERM, 10 uF, 100 V, +/- 20%, X7R, 2220|C5|22201C106MAT2A|1|AVX|2220|10uF
+6|Fitted|CAP, CERM, 0.1 uF, 100 V, +/- 10%, X7R, 0603|C6, C28, C30|GRM188R72A104KA35D|3|MuRata|0603|0.1uF
+7|Fitted|CAP, CERM, 1 µF, 16 V,+/- 20%, X5R, 0402|C7, C31|CL05A105MO5NNNC|2|Samsung Electro-Mechanics|0402|1uF
+8|Fitted|CAP, CERM, 0.047 uF, 100 V, +/- 10%, X7R, 0805|C8|GRM21BR72A473KA01L|1|MuRata|0805|0.047uF
+9|Fitted|CAP, CERM, 1 uF, 6.3 V, +/- 20%, X5R, 0402|C9|GRM152R60J105ME15D|1|MuRata|0402|1uF
+10|Fitted|CAP CER 3900PF 100V X7R 1206|C16, C17, C18|12061C392KAZ2A|3|AVX Corporation|1206|3900pF
+11|Fitted|CAP, CERM, 0.1 uF, 10 V, +/- 10%, X7R, AEC-Q200 Grade 1, 0402|C19, C33, C35, C39, C40, C44, C45|GCM155R71A104KA55D|7|MuRata|0402|0.1uF
+12|Fitted|CAP, CERM, 3300 pF, 50 V, +/- 10%, X7R, 0402|C21|GRM155R71H332KA01D|1|MuRata|0402|3300pF
+13|Fitted|CAP, CERM, 1000 pF, 16 V, +/- 10%, X7R, 0402|C23, C36, C41, C42, C43|GRM155R71C102KA01D|5|MuRata|0402|1000pF
+14|Fitted|CAP, CERM, 0.01 µF, 100 V,+/- 10%, X7R, 0603|C24|885012206114|1|Wurth Elektronik|0603|0.01uF
+15|Fitted|CAP, CERM, 3000 pF, 50 V, +/- 5%, C0G/NP0, 0603|C25|GRM1885C1H302JA01D|1|MuRata|0603|3000pF
+16|Fitted|CAP, CERM, 2.2 uF, 50 V, +/- 10%, X7R, 0805|C26|C2012X7R1H225K125AC|1|TDK|0805|2.2uF
+17|Fitted|CAP, CERM, 3.3 uF, 100 V, +/- 20%, X7S, 1206_190|C27, C29|C3216X7S2A335M160AB|2|TDK|1206_190|3.3uF
+18|Fitted|CAP CER 0.47UF 16V X5R 0402|C32|CGB2A1X5R1C474K033BC|1|TDK Corporation|0402|0.47uF
+19|Fitted|CAP, CERM, 10 µF, 10 V,+/- 10%, X5R, 0603|C34|GRM188R61A106KE69D|1|MuRata|0603|10uF
+20|Fitted|CAP, CERM, 2.2 uF, 10 V, +/- 20%, X5R, 0402|C37|885012105013|1|Wurth Elektronik|0402|2.2uF
+21|Fitted|CAP, CERM, 10 uF, 35 V, +/- 20%, X7R, 1206_190|C38|C3216X7R1V106M160AC|1|TDK|1206_190|10uF
+22|Fitted|Diode, TVS, Bi, 70 V, SMB|D1|SMBJ70CA-13-F|1|Diodes Inc.|SMB|70V
+23|Fitted|Diode, Schottky, 200 V, 1 A, PowerDI123|D2, D3|DFLS1200-7|2|Diodes Inc.|PowerDI123|200V
+24|Fitted|LED, Green, SMD|D4, D7|150060GS75000|2|Wurth Elektronik, Wurth Elektronics Inc|LED_0603|Green
+25|Fitted|LED RED CLEAR 0603 SMD|D5|150060RS75000|1|Wurth Elektronics Inc|LED_0603|RED
+26|Fitted|LED YELLOW CLEAR 0603 SMD|D6|150060YS75000|1|Wurth Elektronics Inc|LED_0603|YELLOW
+27|Fitted|MACHINE SCREW PAN PHILLIPS 2-56|H1, H2|NY PMS 256 0025 PH|2|B&F Fastener Supply|Machine Screw Pan Phillips 2-56|
+28|Fitted|Header, 2.54 mm, 2x1, Gold, TH|J2, J3, J5, J6|61300211121|4|Wurth Elektronik|Header, 2.54mm, 2x1, TH|
+29|Fitted|Header, 2.54 mm, 4x1, Gold, TH|J4, J8, J10|61300411121|3|Wurth Elektronik|Header, 2.54mm, 4x1, TH|
+30|Fitted|Header, 2.54mm, 5x1, Gold, TH|J7|61300511121|1|Wurth Elektronik|Header, 2.54mm, 5x1, TH|
+31|Fitted|CONN HEADER VERT 8POS 2.54MM|J9|61300821121|1|Wurth Electronics|HDR8|
+32|Fitted|Inductor, Drum Core, Ferrite, 330 uH, 0.27 A, 2.25 ohm, SMD|L1|SDR0604-331KL|1|Bourns|5.8x4.8x5.8mm|330uH
+33|Fitted|Inductor, Shielded, Ferrite, 33 uH, 0.085 A, 1.4 ohm, SMD|L2|NLFV25T-330K-PF|1|TDK|2.5x1.8x2mm|33uH
+34|Fitted|MOSFET, N-CH, 100 V, 200 A, KTT0002A (TO-263-2)|Q1, Q2, Q3, Q4, Q5, Q6|CSD19536KTT|6|Texas Instruments|KTT0002A|100V
+35|Fitted|TRANS PNP 100V 1A SOT23-3|Q7|FMMT593TA|1|Fairchild Semiconductor|SOT-23|100 V
+36|Fitted|TRANS NPN 100V 1A SOT23-3|Q8|FMMT493TA|1|Diodes Incorporated|SOT-23|100 V
+37|Fitted|RES, 0, 5%, 0.063 W, 0402|R4, R28|RC0402JR-070RL|2|Yageo America|0402|0
+38|Fitted|RES, 18.0 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R6|ERJ-2RKF1802X|1|Panasonic|0402|18.0k
+39|Fitted|RES, 75 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R10|CRCW040275K0JNED|1|Vishay-Dale|0402|75k
+40|Fitted|RES, 1.50, 1%, 0.25 W, AEC-Q200 Grade 0, 1206|R14, R15, R16|CRCW12061R50FKEA|3|Vishay-Dale|1206|1.50
+41|Fitted|RES, 10.0, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R22, R27|CRCW040210R0FKED|2|Vishay-Dale|0402|10.0
+42|Fitted|RES, 100, 5%, 0.1 W, AEC-Q200 Grade 0, 0402|R23, R52, R57, R58, R61|ERJ-2GEJ101X|5|Panasonic|0402|100
+43|Fitted|RES, 0.001, 1%, 3 W, AEC-Q200 Grade 0, 2512|R24, R25|CRE2512-FZ-R001E-3|2|Bourns|2512|0.001
+44|Fitted|RES, 20.0 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R29, R30|CRCW040220K0FKED|2|Vishay-Dale|0402|20.0k
+45|Fitted|RES, 0.91, 1%, 0.125 W, 0402|R31|ERJ-2BQFR91X|1|Panasonic|0402|0.91
+46|Fitted|RES SMD 249K OHM 1% 1/16W 0402|R32|RC0402FR-07249KL|1|Yageo|0402|249k
+47|Fitted|RES, 133 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R33|AC0402FR-07133KL|1|Yageo America|0402|133k
+48|Fitted|RES SMD 4.02K OHM 1% 1/16W 0402|R34|RC0402FR-074K02L|1|Yageo|0402|4.02k
+49|Fitted|RES, 2.00 M, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R35, R39, R48, R53|CRCW04022M00FKED|4|Vishay-Dale|0402|2.00Meg
+50|Fitted|RES, 97.6 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R43|ERJ-2RKF9762X|1|Panasonic|0402|97.6k
+51|Fitted|RES, 191 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R47|ERJ-2RKF1913X|1|Panasonic|0402|191k
+52|Fitted|RES, 3.30 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R49, R54, R55, R56|ERJ-2RKF3301X|4|Panasonic|0402|3.30k
+53|Fitted|RES, 3.32, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R50|CRCW04023R32FKED|1|Vishay-Dale|0402|3.32
+54|Fitted|RES, 47.0 k, 1%, 0.0625 W, 0402|R51|RC0402FR-0747KL|1|Yageo America|0402|47.0k
+55|Fitted|RES, 1.00 k, 1%, 0.1 W, 0402|R59, R64, R65|ERJ-2RKF1001X|3|Panasonic|0402|1.00k
+56|Fitted|RES, 10.0 k, 1%, 0.1 W, 0402|R60, R62, R66|ERJ-2RKF1002X|3|Panasonic|0402|10.0k
+57|Fitted|RES, 1.00 M, 1%, 0.1 W, 0402|R63|ERJ-2RKF1004X|1|Panasonic|0402|1.00Meg
+58|Fitted|Switch, Tactile, SPST, 12 V, SMD|S1|434121025816|1|Wurth Elektronik|SMD, 6x3.9mm|
+59|Fitted|100-V Three-Phase Smart Gate Driver With Buck Regulator, RGZ0048L (VQFN-48)|U1|DRV8350RHRGZR|1|Texas Instruments|RGZ0048L|
+60|Fitted|Mixed-Signal Microcontroller, PT0048A (LQFP-48)|U2|MSP430FR2355TPTR|1|Texas Instruments|PT0048A|
+61|Fitted|150-mA, 30-V, Ultra-Low IQ, Wide Input Low-Dropout Regulator with Reverse Current Protection, DRV0006A (WSON-6)|U3|TPS70933DRVR|1|Texas Instruments|DRV0006A|
+62|Fitted|TMP235A4DBZR, DBZ0003A (SOP-3)|U4|TMP235A4DBZR|1|Texas Instruments|DBZ0003A|
+63|Fitted|Low- and High-Side Measurement, Multichannel, Voltage Output, Current-Sense Amplifier, DBV0005A (SOT-5)|U5|INA180A3IDBVR|1|Texas Instruments|DBV0005A|
+64|Not Fitted|CAP CER 3900PF 100V X7R 1206|C13, C14, C15|12061C392KAZ2A|0|AVX Corporation|1206|3900pF
+65|Not Fitted|CAP, CERM, 1000 pF, 50 V,+/- 10%, X7R, 0603|C20, C22, C46, C47, C48, C49|885012206083|0|Wurth Elektronik|0603|1000pF
+66|Not Fitted|Header, 2.54 mm, 2x1, Gold, TH|J1|61300211121|0|Wurth Elektronik|Header, 2.54mm, 2x1, TH|
+67|Not Fitted|RES, 1.50, 1%, 0.25 W, AEC-Q200 Grade 0, 1206|R1, R2, R3|CRCW12061R50FKEA|0|Vishay-Dale|1206|1.50
+68|Not Fitted|RES, 75 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R5|CRCW040275K0JNED|0|Vishay-Dale|0402|75k
+69|Not Fitted|RES, 10.0 k, 1%, 0.1 W, 0402|R7|ERJ-2RKF1002X|0|Panasonic|0402|10.0k
+70|Not Fitted|RES, 18.0 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0402|R8|ERJ-2RKF1802X|0|Panasonic|0402|18.0k
+71|Not Fitted|RES, 100, 5%, 0.1 W, AEC-Q200 Grade 0, 0402|R9, R13, R17|ERJ-2GEJ101X|0|Panasonic|0402|100
+72|Not Fitted|RES SMD 249K OHM 1% 1/16W 0402|R36, R37, R38, R40, R41, R42|RC0402FR-07249KL|0|Yageo|0402|249k
+73|Not Fitted|RES SMD 23.2K OHM 1% 1/16W 0402|R44, R45, R46|RC0402FR-0723K2L|0|Yageo|0402|23.2k

@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Altium_WIP\PMP9517\PMP9517.PcbDoc
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_1|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_BoardEdge_MountingHoles|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_BoardEdge_Poly|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_BoardEdge|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=7.87

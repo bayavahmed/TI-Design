@@ -1,0 +1,31 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|Field=Alternate Manufacturer~String~Alternate Manufacturer~100|Field=Alternate PartNumber~String~Alternate PartNumber~100|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~PMP20634.PrjPcb|ReportField=ProjectFullPath~X:\ReferenceDesigns\PMP20501 thru 20750\PMP20634\Altium Design Files\PMP20634.PrjPcb|ReportField=Title~BOM (EVM format) For Variant [001] of Project [PMP20634.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~32|ReportField=ReportTime~5:10:04 PM|ReportField=ReportDate~3/6/2017|ReportField=ReportDateTime~3/6/2017 5:10:04 PM|ReportField=OutputName~BOM (EVM format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=EVM_Orderable~ChangeMe!|ReportField=CopyrightYear~2016|ReportField=PCB_Layout~C Sarli|ReportField=PCB_Rev~A|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~C Sarli|ReportField=PRJ_Number~PMP20634|ReportField=PRJ_Title~85-265VAC to 12V@1A QR Flyback|ReportField=SCH_Rev~A|ReportField=TechSupport~http://www.ti.com/support|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~3/6/2017|ReportField=CurrentTime~5:09:35 PM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~X:\ReferenceDesigns\PMP20501 thru 20750\PMP20634\Altium Design Files\PMP20634_Sheet1.SchDoc|ReportField=DocumentName~PMP20634_Sheet1.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~1/27/2017|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~PMP20634.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~Not shown in title block|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~PMP20634.PrjPcb|ReportField=DataSourceFullPath~X:\ReferenceDesigns\PMP20501 thru 20750\PMP20634\Altium Design Files\PMP20634.PrjPcb
+1|Fitted|CAP, AL, 22 µF, 400 V, +/- 20%, TH|C1|EKXG401ELL220MK20S|1|Chemi-Con|12.5x20mm|22uF||
+2|Fitted|CAP, Film, 0.1 µF, 300 V, +/- 20%, TH|C2|ECQ-U3A104MG|1|Panasonic|TH, 2-Leads, Body 15x8mm, Pin Spacing 12.5mm|0.1uF||
+3|Fitted|CAP, AL, 680 µF, 25 V, +/- 20%, TH|C3|EKZE250ELL681MJ20S|1|Chemi-Con|D10xL20mm|680uF||
+4|Fitted|CAP, CERM, 10 µF, 25 V, +/- 10%, X5R, 0805|C4|GRM219R61E106KA12|1|MuRata|0805|10uF||
+5|Fitted|CAP, CERM, 4.7 µF, 35 V, +/- 10%, X5R, 0603|C6|GRM188R6YA475KE15D|1|MuRata|0603|4.7uF||
+6|Fitted|Diode, Switching-Bridge, 600 V, 0.5 A, MiniDIP|D1|RH06-T|1|Diodes Inc.|MiniDIP|600V||
+7|Fitted|Diode, TVS, Uni, 150 V, 243 Vc, SMB|D2|SMBJ150A-13-F|1|Diodes Inc.|SMB|150V||
+8|Fitted|Diode, Ultrafast, 600V, 1A, SMA|D3|MURA160T3G|1|ON Semiconductor|SMA|1.05V||
+9|Fitted|Diode, Schottky, 100 V, 3 A, SMC|D4|B3100-13-F|1|Diodes Inc.|SMC|100V||
+10|Fitted|Diode, Switching, 100 V, 0.25 A, SOD-323F|D5|BAS16J,135|1|NXP Semiconductor|SOD-323F|100V||
+11|Fitted|Fuse, 1 A, 250VAC/VDC, SMD|F1|0443001.DR|1|Littelfuse|FUSE 10.1x3.12x3.13mm|||
+12|Fitted|Coupled inductor, 1 mH, 2 A, 0.045 ohm, TH|L1|744821201|1|Wurth Elektronik|15 x 18 x 7.5mm|1mH||
+13|Fitted|MOSFET, N-CH, 600 V, 3.9 A, DPAK|Q1|FCD4N60TM|1|Fairchild Semiconductor|DPAK|600V|None|
+14|Fitted|MOSFET, N-CH, 30 V, 3.6 A, SOT-23|Q2|AO3406|1|AOS|SOT-23|30V|None|
+15|Fitted|RES, 0, 5%, 0.063 W, 0402|R1, R3|CRCW04020000Z0ED|2|Vishay-Dale|0402|0||
+16|Fitted|RES, 73.2 k, 1%, 0.063 W, 0402|R2|CRCW040273K2FKED|1|Vishay-Dale|0402|73.2k||
+17|Fitted|RES, 33.2 k, 1%, 0.063 W, 0402|R4|CRCW040233K2FKED|1|Vishay-Dale|0402|33.2k||
+18|Fitted|RES, 1.6, 5%, 0.125 W, 0805|R5, R6|CRCW08051R60JNEA|2|Vishay-Dale|0805|1.6||
+19|Fitted|RES, 1.33 k, 1%, 0.063 W, 0402|R8|CRCW04021K33FKED|1|Vishay-Dale|0402|1.33k||
+20|Fitted|RES, 1.00 k, 1%, 0.063 W, 0402|R16, R17|CRCW04021K00FKED|2|Vishay-Dale|0402|1.00k||
+21|Fitted|RES, 10.0 k, 1%, 0.063 W, 0402|R18|CRCW040210K0FKED|1|Vishay-Dale|0402|10.0k||
+22|Fitted|Transformer, 500 uH, EE16/8/5, TH|T1|750316686|1|Wurth Elektronik|EE16/8/5|500uH||
+23|Fitted|Test Point, Multipurpose, White, TH|TP1, TP2|5012|2|Keystone|White Multipurpose Testpoint|||
+24|Fitted|Test Point, Multipurpose, Red, TH|TP4|5010|1|Keystone|Red Multipurpose Testpoint|||
+25|Fitted|Test Point, Multipurpose, Black, TH|TP5|5011|1|Keystone|Black Multipurpose Testpoint|||
+26|Fitted|Test Point, Miniature, White, TH|TP6|5002|1|Keystone|White Miniature Testpoint|||
+27|Fitted|Constant-Voltage Constant-Current Flyback Controller With PSR and Wake-Up Monitoring, D0007A (SOIC-7)|U1|UCC28730DR|1|Texas Instruments|D0007A||Texas Instruments|UCC28730D
+28|Fitted|Optocoupler, 3.75 kV, 80-160% CTR, SMT|U4|VOS617A-7X001T|1|Vishay-Semiconductor|7x2.12x2.6mm|||
+29|Not Fitted|RES, 115 k, 1%, 0.063 W, 0402|R7|CRCW0402115KFKED|0|Vishay-Dale|0402|115k||
+30|Not Fitted|RES, 7.5 k, 5%, 0.063 W, 0402|R9|CRCW04027K50JNED|0|Vishay-Dale|0402|7.5k||
